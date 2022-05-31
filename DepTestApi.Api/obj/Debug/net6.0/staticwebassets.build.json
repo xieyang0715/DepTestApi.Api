@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ju33GTK1U6BTZo9fCkRemggHhMyTGz9yobHPoeSXOBo=",
+  "Source": "DepTestApi.Api",
+  "BasePath": "_content/DepTestApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\DepTestApi.Api.exe
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\DepTestApi.Api.dll
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\DepTestApi.Api.deps.json
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\DepTestApi.Api.runtimeconfig.json
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\DepTestApi.Api.pdb
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CodeStore\DepTestApi.Api\DepTestApi.Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
